@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DNS_GUI")]
+[assembly: AssemblyTitle("DNS_GUI_REQ")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DNS_GUI")]
+[assembly: AssemblyProduct("DNS_GUI_REQ")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7239d958-e4b5-4fb2-9891-56d29c89e6b3")]
+[assembly: Guid("07903800-bfbc-47a3-ab10-005e6859ac40")]
 
 // Version information for an assembly consists of the following four values:
 //
